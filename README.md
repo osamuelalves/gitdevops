@@ -1,3 +1,15 @@
+# 🧠 Grupo de Estudos DevOps — UFG
+
+> **Material criado para o grupo de estudos de DevOps da UFG**, abordando conceitos introdutórios e práticos de **versionamento, Git e GitHub**.
+
+---
+
+## 📘 Objetivo
+
+Este repositório tem como objetivo reunir materiais e exemplos que auxiliem estudantes e entusiastas a compreender os fundamentos do controle de versões e da colaboração em projetos de software.sicos de git e github
+
+---
+
 # 🧠 Resumo — Git e GitHub  
 
 ## 📘 1. Versionamento  
